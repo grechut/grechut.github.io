@@ -1,0 +1,11 @@
+# Site settings
+title: Jacek Rzeszutek's blog
+email: rzeszutekjacek@gmail.com
+description: software engineer, data scientist at portent.io
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://grechut.github.io" # the base hostname & protocol for your site
+twitter_username: grechut
+github_username:  grechut
+
+# Build settings
+markdown: kramdown
