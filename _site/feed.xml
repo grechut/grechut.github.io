@@ -5,8 +5,8 @@
     <description>software engineer, data scientist at portent.io</description>
     <link>http://grechut.github.io/</link>
     <atom:link href="http://grechut.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Oct 2015 16:58:09 +0100</pubDate>
-    <lastBuildDate>Sun, 25 Oct 2015 16:58:09 +0100</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2015 17:45:31 +0100</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2015 17:45:31 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -29,7 +29,7 @@
 
 &lt;p&gt;&lt;strong&gt;Cut the amount of work and prioritize properly.&lt;/strong&gt; Use the &lt;a href=&quot;https://en.wikipedia.org/wiki/Pareto_principle&quot;&gt;Pareto principle&lt;/a&gt; every day. Most of the features that you can think of seem to be urgent. Most of they really aren’t. Value your time high and keep in mind that polishing one feature for too long would mean not doing other features. It’s better to work on 2-3 essential things and do them properly instead of struggling with ten of them.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Use slack for the team short term communication.&lt;/strong&gt; Create channels per specific features / areas of the project. In these channels only relevant people should be involved. Also, the discussion will not be mixed with other topics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Use &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; for the team short term communication.&lt;/strong&gt; Create channels per specific features / areas of the project. In these channels only relevant people should be involved. Also, the discussion will not be mixed with other topics.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Be patient.&lt;/strong&gt; Especially at the beginning of the project. It takes some time until the team gets the whole process right. With the core software infrastructure ready and knowing how to work with other team members, the development will increase velocity. Fail frequently, learn from failures, apply fixes and iterate again.&lt;/p&gt;
 

@@ -9,3 +9,8 @@ github_username:  grechut
 
 # Build settings
 markdown: kramdown
+
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-69265959-1'
