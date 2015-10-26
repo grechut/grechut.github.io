@@ -10,7 +10,8 @@ github_username:  grechut
 # Build settings
 markdown: kramdown
 
-analytics :
-  provider : google
-  google : 
-      tracking_id : 'UA-69265959-1'
+analytics:
+  provider: mixpanel
+  mixpanel: 
+    token: '691592e2a9233646e2b8bddcd01eca5e'
+
